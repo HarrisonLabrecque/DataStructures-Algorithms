@@ -1,0 +1,4 @@
+U:\VectorSorting\Debug\VectorSorting.exe
+U:\VectorSorting\Debug\VectorSorting.pdb
+\\apporto.com\dfs\SNHU\USERS\harrisonlabre_snhu\Documents\VectorSorting\Debug\VectorSorting.exe
+\\apporto.com\dfs\SNHU\USERS\harrisonlabre_snhu\Documents\VectorSorting\Debug\VectorSorting.pdb
